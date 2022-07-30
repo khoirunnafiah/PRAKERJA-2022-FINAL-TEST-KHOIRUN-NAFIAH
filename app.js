@@ -1,0 +1,5 @@
+app = () => {
+    // code here
+    }
+    app();
+    
